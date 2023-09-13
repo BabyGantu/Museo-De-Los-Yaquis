@@ -264,7 +264,7 @@ class _ContactoState extends State<Contacto> {
                         child: InkWell(
                           onTap: () async {
                             const link =
-                                'https://www.facebook.com/MuseoYaquis/';
+                                'https://www.facebook.com/MuseoYaquis';
                             Uri uri = Uri.parse(link); // URL de Facebook
                             showDialog(
                               context: context,
@@ -293,14 +293,10 @@ class _ContactoState extends State<Contacto> {
                                   ),
                                   TextButton(
                                     onPressed: () async {
-                                      if (await canLaunchUrl(uri)) {
                                         await launchUrl(uri,
                                             mode:
                                                 LaunchMode.externalApplication);
                                         Navigator.of(context).pop();
-                                      } else {
-                                        throw 'Could not launch $link';
-                                      }
                                     },
                                     child: Text(
                                       'Aceptar',

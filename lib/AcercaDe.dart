@@ -177,7 +177,7 @@ class AcercaDe extends StatelessWidget {
                               fontSize: 18.0 + tam_letra,
                               height: 1.15,
                             )),
-                        Text("Carlos Valencia - YaquiPride.org (inglés)",
+                        Text("Carlos Valencia - YaquiPride.com (inglés)",
                             //textAlign: TextAlign.justify,
                             style: TextStyle(
                               fontSize: 18.0 + tam_letra,
