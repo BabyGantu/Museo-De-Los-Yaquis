@@ -39,7 +39,7 @@ class _MyDrawerState extends State<MyDrawer> {
                 decoration: BoxDecoration(
                   color: themeChanger.isDarkMode()
                       ? darkPrimaryColorDark
-                      : Theme.of(context).primaryColor,
+                      : primarySwatchSwitch,
                 ),
                 child: Image.asset('assets/images/Museo2.png'),
               );

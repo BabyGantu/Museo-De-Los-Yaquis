@@ -42,7 +42,7 @@ class _ContactoState extends State<Contacto> {
   //late GoogleMapController mapController;
   //final LatLng _ubicacion = const LatLng(27.57682442654643, -109.9620293853662);
 
-/*
+
     final _formKey = GlobalKey<FormState>();
     final _nameController = TextEditingController();
     final _lastNameController = TextEditingController();
@@ -134,7 +134,7 @@ class _ContactoState extends State<Contacto> {
       }
     }
 
- */
+
 
 
 

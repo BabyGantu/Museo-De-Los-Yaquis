@@ -225,7 +225,7 @@ class AcercaDe extends StatelessWidget {
                         )),
 
                     SizedBox(height: 20.0),
-                    Text("Versión de la aplicación: 1.0.10",
+                    Text("Versión de la aplicación: 1.0.11",
                         //textAlign: TextAlign.justify,
                         style: TextStyle(
                           fontSize: 18.0 + tam_letra,

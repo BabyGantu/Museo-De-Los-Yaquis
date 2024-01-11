@@ -56,8 +56,9 @@ MaterialColor primarySwatch = const MaterialColor(0xff9b3c00, {
   700: Color(0xff490600),
   800: Color(0xff400000),
   900: Color(0xff2f0000),
+  1000: Color(0xffffffff),
 });
-const darkPrimaryColorDark = Color(0xFF212121);
+const darkPrimaryColorDark = Color(0xFF272833);
 const MaterialColor darkPrimarySwatch = MaterialColor(0xFF212121, {
   50: Color(0xFFFAFAFA),
   100: Color(0xFFF5F5F5),
@@ -153,12 +154,12 @@ class _MyHomePageState extends State<MyHomePage>
     setState(() {});
     return Scaffold(
       appBar: AppBar(
-        title: Text(widget.title),
+        title: Text(widget.title,style: TextStyle( color: primarySwatch[1000])),
         backgroundColor: primarySwatch,
 
         actions: [
           IconButton(
-            icon: const Icon(Icons.search),
+            icon: const Icon(Icons.search,color: Colors.white),
             onPressed: () {
               Navigator.push(
                 context,
@@ -173,7 +174,7 @@ class _MyHomePageState extends State<MyHomePage>
             },
           ),
           IconButton(
-            icon: const Icon(Icons.nightlight_round),
+            icon: const Icon(Icons.nightlight_round,color: Colors.white),
             onPressed: () {
               themeChanger.toggleTheme(); // Cambiar el tema al hacer click
             },
@@ -199,13 +200,32 @@ class _MyHomePageState extends State<MyHomePage>
 
   TabBar getTabBar() {
     return TabBar(
-      tabs: const <Tab>[
-        Tab(text: 'Jaik Noki'),
-        Tab(text: 'Español'),
-        Tab(text: 'English'),
+      tabs: <Tab>[
+        Tab(
+          child: Text(
+            'Jaik Noki',
+            style: TextStyle(fontWeight: FontWeight.bold,fontSize: 15),
+          ),
+        ),
+        Tab(
+          child: Text(
+            'Español',
+            style: TextStyle(fontWeight: FontWeight.bold,fontSize: 15),
+          ),
+        ),
+        Tab(
+          child: Text(
+            'English',
+            style: TextStyle(fontWeight: FontWeight.bold,fontSize: 15),
+          ),
+        ),
       ],
       controller: _controller,
-      indicatorColor: primarySwatch[500],indicator: BoxDecoration(color: primarySwatch[400]),
+      indicator: BoxDecoration(color: primarySwatch[400]),
+      labelColor: Colors.white, // Color del texto de la pestaña activa
+      unselectedLabelColor: Colors.white.withOpacity(0.7), // Color del texto de las pestañas inactivas
+      indicatorWeight: 4.0,
+      indicatorSize: TabBarIndicatorSize.tab,// Ajusta el grosor del indicador
     );
   }
 

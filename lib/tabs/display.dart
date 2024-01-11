@@ -99,13 +99,12 @@ class _AbcPageState extends State<AbcPage> with SingleTickerProviderStateMixin {
           TabBar(
             controller: _controller,
             isScrollable: true,
-            labelPadding: EdgeInsets.all(1),
+            labelPadding: EdgeInsets.all(1), // Ajusta el espaciado del texto dentro de la pestaña
             tabs: alphabet
                 .map((letter) => AbcTab(
               letter: letter,
               scrollController: _scrollController,
-              color:
-              _selectedLetter == letter ? primarySwatch : Colors.white,
+              color: _selectedLetter == letter ? primarySwatch : Colors.white,
               colorL: _selectedLetter == letter ? Colors.white : Colors.black,
               fichas: widget.fichas,
               onTabSelected: () {
@@ -116,8 +115,9 @@ class _AbcPageState extends State<AbcPage> with SingleTickerProviderStateMixin {
             ))
                 .toList(),
             indicator: BoxDecoration(),
-            padding: EdgeInsets.symmetric(vertical: 5, horizontal: 5),
+            padding: EdgeInsets.symmetric(vertical: 5),
           ),
+
           Expanded(
             child: ListView.builder(
               controller: _scrollController,
@@ -268,7 +268,7 @@ class _AbcTabState extends State<AbcTab> {
         }
       },
       child: Container(
-        padding: EdgeInsets.symmetric(horizontal: 15, vertical: 5),
+        padding: EdgeInsets.symmetric(horizontal: 17, vertical: 5),
         decoration: BoxDecoration(
           color: widget.color,
           borderRadius: BorderRadius.circular(4),

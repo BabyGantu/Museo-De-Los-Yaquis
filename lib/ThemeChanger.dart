@@ -13,6 +13,7 @@ MaterialColor primarySwatchSwitch = const MaterialColor(0xff9b3c00, {
   700: Color(0xff490600),
   800: Color(0xff400000),
   900: Color(0xff2f0000),
+  1000: Color(0xffffffff),
 });
 const MaterialColor darkPrimarySwatchSwitch = MaterialColor(0xFF212121, {
   50: Color(0xFFFAFAFA),
