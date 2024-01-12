@@ -1,0 +1,246 @@
+
+App Thinning Size Report for All Variants of Runner
+
+Variant: Museo de los Yaquis-0BDC164E-8E59-4CC2-AA47-82CBF41C23C3.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 13.0] and [device: iPhone8,2, os-version: 14.0]
+App + On Demand Resources size: 12.4 MB compressed, 26.1 MB uncompressed
+App size: 12.4 MB compressed, 26.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-11C8E5C6-7CCB-41AF-8D49-6D8E0A22547B.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 15.0], [device: iPod9,1, os-version: 15.0], and [device: iPhone8,1, os-version: 15.0]
+App + On Demand Resources size: 12.4 MB compressed, 26 MB uncompressed
+App size: 12.4 MB compressed, 26 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-17AC3FB2-D059-49F0-8AC5-4C1700192847.ipa
+Supported variant descriptors: [device: iPhone7,1, os-version: 12.2] and [device: iPhone8,2, os-version: 12.2]
+App + On Demand Resources size: 12.4 MB compressed, 26.1 MB uncompressed
+App size: 12.4 MB compressed, 26.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-1D307C6F-CF70-48EC-B928-291FDEF2EAE8.ipa
+Supported variant descriptors: [device: iPhone12,8, os-version: 13.0], [device: iPhone10,4, os-version: 13.0], [device: iPhone9,1, os-version: 14.0], [device: iPhone9,3, os-version: 14.0], [device: iPhone10,4, os-version: 14.0], [device: iPhone10,1, os-version: 13.0], [device: iPhone10,1, os-version: 14.0], [device: iPhone12,8, os-version: 14.0], [device: iPhone9,3, os-version: 13.0], and [device: iPhone9,1, os-version: 13.0]
+App + On Demand Resources size: 12.4 MB compressed, 26.1 MB uncompressed
+App size: 12.4 MB compressed, 26.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-23175C14-E117-4DB9-B73F-9554A59335F5.ipa
+Supported variant descriptors: [device: iPad11,7, os-version: 15.0], [device: iPad13,19, os-version: 16.0], [device: iPad7,6, os-version: 16.0], [device: iPad6,8, os-version: 15.0], [device: iPad7,6, os-version: 15.0], [device: iPad5,2, os-version: 15.0], [device: iPad6,11, os-version: 16.0], [device: iPad7,12, os-version: 15.0], [device: iPad11,7, os-version: 16.0], [device: iPad7,11, os-version: 15.0], [device: iPad7,5, os-version: 16.0], [device: iPad12,1, os-version: 16.0], [device: iPad12,2, os-version: 15.0], [device: iPad7,5, os-version: 15.0], [device: iPad11,6, os-version: 16.0], [device: iPad7,11, os-version: 16.0], [device: iPad5,3, os-version: 15.0], [device: iPad6,8, os-version: 16.0], [device: iPad13,18, os-version: 16.0], [device: iPad6,7, os-version: 15.0], [device: iPad6,12, os-version: 15.0], [device: iPad12,2, os-version: 16.0], [device: iPad6,11, os-version: 15.0], [device: iPad11,6, os-version: 15.0], [device: iPad12,1, os-version: 15.0], [device: iPad5,4, os-version: 15.0], [device: iPad7,12, os-version: 16.0], [device: iPad5,1, os-version: 15.0], [device: iPad6,7, os-version: 16.0], and [device: iPad6,12, os-version: 16.0]
+App + On Demand Resources size: 12.4 MB compressed, 26.1 MB uncompressed
+App size: 12.4 MB compressed, 26.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-2EE2DE03-46FC-4A07-BA68-85BA7F094246.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.2]
+App + On Demand Resources size: 12.4 MB compressed, 26.1 MB uncompressed
+App size: 12.4 MB compressed, 26.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-2F651D56-239A-45B8-8F19-5CD6906060B3.ipa
+Supported variant descriptors: [device: iPad13,11, os-version: 15.0], [device: iPad7,2, os-version: 15.0], [device: iPad8,9, os-version: 15.0], [device: iPad13,2, os-version: 16.0], [device: iPad8,7, os-version: 15.0], [device: iPad8,4, os-version: 15.0], [device: iPad13,6, os-version: 15.0], [device: iPad11,1, os-version: 15.0], [device: iPad8,2, os-version: 15.0], [device: iPad8,11, os-version: 16.0], [device: iPad13,10, os-version: 16.0], [device: iPad11,3, os-version: 15.0], [device: iPad7,1, os-version: 15.0], [device: iPad7,4, os-version: 16.0], [device: iPad14,3-A, os-version: 16.0], [device: iPad14,4-A, os-version: 16.0], [device: iPad7,1, os-version: 16.0], [device: iPad7,4, os-version: 15.0], [device: iPad8,6, os-version: 16.0], [device: iPad8,6, os-version: 15.0], [device: iPad8,12, os-version: 15.0], [device: iPad6,3, os-version: 16.0], [device: iPad6,3, os-version: 15.0], [device: iPad13,17, os-version: 15.0], [device: iPad7,3, os-version: 16.0], [device: iPad13,11, os-version: 16.0], [device: iPad13,8, os-version: 15.0], [device: iPad14,1, os-version: 16.0], [device: iPad8,10, os-version: 15.0], [device: iPad8,2, os-version: 16.0], [device: iPad8,7, os-version: 16.0], [device: iPad11,2, os-version: 15.0], [device: iPad8,8, os-version: 16.0], [device: iPad8,5, os-version: 16.0], [device: iPad13,9, os-version: 15.0], [device: iPad13,4, os-version: 16.0], [device: iPad8,11, os-version: 15.0], [device: iPad14,6-A, os-version: 16.0], [device: iPad6,4, os-version: 16.0], [device: iPad13,7, os-version: 15.0], [device: iPad14,5-B, os-version: 16.0], [device: iPad13,10, os-version: 15.0], [device: iPad8,3, os-version: 16.0], [device: iPad14,2, os-version: 16.0], [device: iPad7,3, os-version: 15.0], [device: iPad14,2, os-version: 15.0], [device: iPad13,5, os-version: 16.0], [device: iPad7,2, os-version: 16.0], [device: iPad13,8, os-version: 16.0], [device: iPad11,2, os-version: 16.0], [device: iPad8,1, os-version: 16.0], [device: iPad8,1, os-version: 15.0], [device: iPad8,8, os-version: 15.0], [device: iPad11,1, os-version: 16.0], [device: iPad14,1, os-version: 15.0], [device: iPad13,17, os-version: 16.0], [device: iPad14,6-B, os-version: 16.0], [device: iPad14,3-B, os-version: 16.0], [device: iPad13,4, os-version: 15.0], [device: iPad13,16, os-version: 16.0], [device: iPad6,4, os-version: 15.0], [device: iPad14,4-B, os-version: 16.0], [device: MacFamily20,1, os-version: 16.0], [device: iPad8,3, os-version: 15.0], [device: iPad13,5, os-version: 15.0], [device: iPad8,9, os-version: 16.0], [device: iPad13,6, os-version: 16.0], [device: iPad11,4, os-version: 15.0], [device: iPad13,9, os-version: 16.0], [device: iPad11,4, os-version: 16.0], [device: iPad13,7, os-version: 16.0], [device: iPad8,12, os-version: 16.0], [device: iPad8,5, os-version: 15.0], [device: iPad13,1, os-version: 16.0], [device: iPad14,5-A, os-version: 16.0], [device: iPad13,1, os-version: 15.0], [device: iPad13,2, os-version: 15.0], [device: MacFamily20,1, os-version: 15.0], [device: iPad8,10, os-version: 16.0], [device: iPad11,3, os-version: 16.0], [device: iPad13,16, os-version: 15.0], and [device: iPad8,4, os-version: 16.0]
+App + On Demand Resources size: 12.4 MB compressed, 26.1 MB uncompressed
+App size: 12.4 MB compressed, 26.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-365C19F6-A84F-42D1-8C4A-AC6F17C42954.ipa
+Supported variant descriptors: [device: iPad7,3, os-version: 12.0], [device: iPad8,3, os-version: 12.0], [device: iPad8,2, os-version: 12.0], [device: iPad6,4, os-version: 12.0], [device: iPad6,3, os-version: 12.0], [device: iPad7,4, os-version: 12.0], [device: iPad8,8, os-version: 12.0], [device: iPad8,4, os-version: 12.0], [device: iPad7,1, os-version: 12.0], [device: iPad8,7, os-version: 12.0], [device: iPad8,5, os-version: 12.0], [device: iPad8,6, os-version: 12.0], [device: iPad8,1, os-version: 12.0], and [device: iPad7,2, os-version: 12.0]
+App + On Demand Resources size: 14.9 MB compressed, 33.6 MB uncompressed
+App size: 14.9 MB compressed, 33.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-391E29FA-AE54-4934-B38C-A9D9711AF2C9.ipa
+Supported variant descriptors: [device: iPhone10,3, os-version: 12.0], [device: iPhone10,2, os-version: 12.0], [device: iPhone11,4, os-version: 12.0], [device: iPhone10,6, os-version: 12.0], [device: iPhone11,2, os-version: 12.0], [device: iPhone9,4, os-version: 12.0], [device: iPhone10,5, os-version: 12.0], [device: iPhone11,6, os-version: 12.0], and [device: iPhone9,2, os-version: 12.0]
+App + On Demand Resources size: 14.9 MB compressed, 33.6 MB uncompressed
+App size: 14.9 MB compressed, 33.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-48E1E71B-3F4D-42FF-A30F-1F4470F3C980.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 16.0], [device: iPhone12,1, os-version: 15.0], [device: iPhone11,8, os-version: 15.0], and [device: iPhone12,1, os-version: 16.0]
+App + On Demand Resources size: 12.4 MB compressed, 26.1 MB uncompressed
+App size: 12.4 MB compressed, 26.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-6A19824F-99F2-4B24-B471-3695460A0C0A.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.0]
+App + On Demand Resources size: 14.9 MB compressed, 33.6 MB uncompressed
+App size: 14.9 MB compressed, 33.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-6EDAE248-293A-4AF1-AAA5-928EE75B0D2A.ipa
+Supported variant descriptors: [device: iPhone10,3, os-version: 14.0], [device: iPhone11,6, os-version: 14.0], [device: iPhone10,3, os-version: 13.0], [device: iPhone10,6, os-version: 13.0], [device: iPhone9,2, os-version: 13.0], [device: iPhone12,3, os-version: 14.0], [device: iPhone13,4, os-version: 14.0], [device: iPhone10,6, os-version: 14.0], [device: iPhone11,2, os-version: 13.0], [device: iPhone10,2, os-version: 14.0], [device: iPhone9,4, os-version: 13.0], [device: iPhone10,5, os-version: 14.0], [device: iPhone10,2, os-version: 13.0], [device: iPhone12,3, os-version: 13.0], [device: iPhone9,2, os-version: 14.0], [device: iPhone13,2, os-version: 14.0], [device: iPhone11,4, os-version: 14.0], [device: iPhone12,5, os-version: 14.0], [device: iPhone10,5, os-version: 13.0], [device: iPhone12,5, os-version: 13.0], [device: iPhone13,3, os-version: 14.0], [device: iPhone11,4, os-version: 13.0], [device: iPhone9,4, os-version: 14.0], [device: iPhone11,2, os-version: 14.0], [device: iPhone13,1, os-version: 14.0], and [device: iPhone11,6, os-version: 13.0]
+App + On Demand Resources size: 12.4 MB compressed, 26.1 MB uncompressed
+App size: 12.4 MB compressed, 26.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-7DD87820-10DE-4AC6-820B-1DE4D5B23084.ipa
+Supported variant descriptors: [device: iPad4,2, os-version: 12.0], [device: iPad4,5, os-version: 12.0], [device: iPad7,6, os-version: 12.0], [device: iPad6,8, os-version: 12.0], [device: iPad4,1, os-version: 12.0], [device: iPad5,1, os-version: 12.0], [device: iPad5,3, os-version: 12.0], [device: iPad4,8, os-version: 12.0], [device: iPad6,12, os-version: 12.0], [device: iPad4,4, os-version: 12.0], [device: iPad4,6, os-version: 12.0], [device: iPad7,5, os-version: 12.0], [device: iPad6,11, os-version: 12.0], [device: iPad4,7, os-version: 12.0], [device: iPad6,7, os-version: 12.0], [device: iPad5,4, os-version: 12.0], [device: iPad4,9, os-version: 12.0], [device: iPad4,3, os-version: 12.0], and [device: iPad5,2, os-version: 12.0]
+App + On Demand Resources size: 14.9 MB compressed, 33.6 MB uncompressed
+App size: 14.9 MB compressed, 33.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-84BA7E07-D95C-4349-93A8-D99660C51336.ipa
+Supported variant descriptors: [device: iPhone10,6, os-version: 16.0], [device: iPhone14,5, os-version: 16.0], [device: iPhone11,6, os-version: 15.0], [device: iPhone11,4, os-version: 16.0], [device: iPhone13,2, os-version: 15.0], [device: iPhone10,2, os-version: 15.0], [device: iPhone14,3, os-version: 15.0], [device: iPhone14,2, os-version: 16.0], [device: iPhone13,1, os-version: 15.0], [device: iPhone10,3, os-version: 16.0], [device: iPhone14,4, os-version: 15.0], [device: iPhone13,4, os-version: 16.0], [device: iPhone14,8, os-version: 16.0], [device: iPhone15,3, os-version: 16.0], [device: iPhone9,4, os-version: 15.0], [device: iPhone12,3, os-version: 16.0], [device: iPhone10,6, os-version: 15.0], [device: iPhone13,1, os-version: 16.0], [device: iPhone14,2, os-version: 15.0], [device: iPhone14,3, os-version: 16.0], [device: iPhone11,6, os-version: 16.0], [device: iPhone15,2, os-version: 16.0], [device: iPhone9,2, os-version: 15.0], [device: iPhone12,5, os-version: 16.0], [device: iPhone11,2, os-version: 15.0], [device: iPhone11,4, os-version: 15.0], [device: iPhone12,5, os-version: 15.0], [device: iPhone10,3, os-version: 15.0], [device: iPhone13,3, os-version: 15.0], [device: iPhone11,2, os-version: 16.0], [device: iPhone13,2, os-version: 16.0], [device: iPhone14,5, os-version: 15.0], [device: iPhone14,7, os-version: 16.0], [device: iPhone14,4, os-version: 16.0], [device: iPhone10,5, os-version: 16.0], [device: iPhone13,3, os-version: 16.0], [device: iPhone10,5, os-version: 15.0], [device: iPhone12,3, os-version: 15.0], [device: iPhone13,4, os-version: 15.0], and [device: iPhone10,2, os-version: 16.0]
+App + On Demand Resources size: 12.4 MB compressed, 26.1 MB uncompressed
+App size: 12.4 MB compressed, 26.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-952156B5-E205-4FC9-97EB-D68885E66A59.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 12.0] and [device: iPhone7,1, os-version: 12.0]
+App + On Demand Resources size: 14.9 MB compressed, 33.6 MB uncompressed
+App size: 14.9 MB compressed, 33.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-97B53BC6-0334-4D3E-8AFB-7C49486C0E6E.ipa
+Supported variant descriptors: [device: iPhone7,1, os-version: 11.0] and [device: iPhone8,2, os-version: 11.0]
+App + On Demand Resources size: 14.9 MB compressed, 33.6 MB uncompressed
+App size: 14.9 MB compressed, 33.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-9D297D53-0210-43FD-AA1F-88A78F90BBC9.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 15.0]
+App + On Demand Resources size: 12.4 MB compressed, 26.1 MB uncompressed
+App size: 12.4 MB compressed, 26.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-9E9FD03A-DE1A-4768-8343-8A74560E8AF8.ipa
+Supported variant descriptors: [device: iPad5,3, os-version: 13.0], [device: iPad7,11, os-version: 14.0], [device: iPad11,6, os-version: 14.0], [device: iPad7,12, os-version: 13.0], [device: iPad5,2, os-version: 14.0], [device: iPad5,3, os-version: 14.0], [device: iPad7,12, os-version: 14.0], [device: iPad7,5, os-version: 13.0], [device: iPad6,12, os-version: 14.0], [device: iPad5,1, os-version: 13.0], [device: iPad6,8, os-version: 14.0], [device: iPad7,6, os-version: 13.0], [device: iPad6,8, os-version: 13.0], [device: iPad5,2, os-version: 13.0], [device: iPad5,4, os-version: 14.0], [device: iPad5,4, os-version: 13.0], [device: iPad11,7, os-version: 14.0], [device: iPad6,11, os-version: 14.0], [device: iPad6,7, os-version: 14.0], [device: iPad7,11, os-version: 13.0], [device: iPad5,1, os-version: 14.0], [device: iPad6,12, os-version: 13.0], [device: iPad6,11, os-version: 13.0], [device: iPad7,6, os-version: 14.0], [device: iPad6,7, os-version: 13.0], and [device: iPad7,5, os-version: 14.0]
+App + On Demand Resources size: 12.4 MB compressed, 26.1 MB uncompressed
+App size: 12.4 MB compressed, 26.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-A6F7EF7D-0BC5-4819-8331-8DE6C123EA32.ipa
+Supported variant descriptors: [device: iPad7,2, os-version: 11.0], [device: iPad6,3, os-version: 11.0], [device: iPad6,4, os-version: 11.0], [device: iPad7,1, os-version: 11.0], [device: iPad7,4, os-version: 11.0], and [device: iPad7,3, os-version: 11.0]
+App + On Demand Resources size: 14.9 MB compressed, 33.6 MB uncompressed
+App size: 14.9 MB compressed, 33.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-ABE778BA-7F22-4ED0-B693-42B110809EEB.ipa
+Supported variant descriptors: [device: iPhone6,1, os-version: 12.0], [device: iPhone6,2, os-version: 12.0], [device: iPhone8,1, os-version: 12.0], [device: iPod7,1, os-version: 12.0], [device: iPhone8,4, os-version: 12.0], and [device: iPhone7,2, os-version: 12.0]
+App + On Demand Resources size: 14.9 MB compressed, 33.6 MB uncompressed
+App size: 14.9 MB compressed, 33.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-ADED9EBC-76ED-44DF-B62D-F56D531A6FB8.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 14.0], [device: iPhone12,1, os-version: 14.0], [device: iPhone12,1, os-version: 13.0], and [device: iPhone11,8, os-version: 13.0]
+App + On Demand Resources size: 12.4 MB compressed, 26.1 MB uncompressed
+App size: 12.4 MB compressed, 26.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-B4EF396D-DC1C-40B9-906D-2EC42A1AB3B7.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 11.0], [device: iPhone10,4, os-version: 11.0], [device: iPhone9,3, os-version: 11.0], and [device: iPhone10,1, os-version: 11.0]
+App + On Demand Resources size: 14.9 MB compressed, 33.6 MB uncompressed
+App size: 14.9 MB compressed, 33.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-C0F912D8-87D1-44E6-AAF3-51A4441F4A68.ipa
+Supported variant descriptors: [device: iPhone8,1, os-version: 13.0], [device: iPod9,1, os-version: 14.0], [device: iPhone8,4, os-version: 14.0], [device: iPod9,1, os-version: 13.0], [device: iPhone8,4, os-version: 13.0], and [device: iPhone8,1, os-version: 14.0]
+App + On Demand Resources size: 12.4 MB compressed, 26 MB uncompressed
+App size: 12.4 MB compressed, 26 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-C26CBC37-488D-4FE0-97DB-0E8C48978D60.ipa
+Supported variant descriptors: [device: iPad11,2, os-version: 12.2], [device: iPad8,2, os-version: 12.2], [device: iPad8,8, os-version: 12.2], [device: iPad7,1, os-version: 12.2], [device: iPad8,6, os-version: 12.2], [device: iPad7,3, os-version: 12.2], [device: iPad8,1, os-version: 12.2], [device: iPad11,3, os-version: 12.2], [device: iPad11,4, os-version: 12.2], [device: iPad6,4, os-version: 12.2], [device: iPad7,4, os-version: 12.2], [device: iPad8,4, os-version: 12.2], [device: iPad8,5, os-version: 12.2], [device: iPad6,3, os-version: 12.2], [device: iPad7,2, os-version: 12.2], [device: iPad8,7, os-version: 12.2], [device: iPad11,1, os-version: 12.2], and [device: iPad8,3, os-version: 12.2]
+App + On Demand Resources size: 12.4 MB compressed, 26.1 MB uncompressed
+App size: 12.4 MB compressed, 26.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-C5816A24-2F57-41FF-A4C6-3765FE4F6936.ipa
+Supported variant descriptors: [device: iPad4,7, os-version: 11.0], [device: iPad4,8, os-version: 11.0], [device: iPad5,1, os-version: 11.0], [device: iPad6,8, os-version: 11.0], [device: iPad6,12, os-version: 11.0], [device: iPad7,6, os-version: 11.0], [device: iPad4,5, os-version: 11.0], [device: iPad4,1, os-version: 11.0], [device: iPad5,3, os-version: 11.0], [device: iPad4,2, os-version: 11.0], [device: iPad4,3, os-version: 11.0], [device: iPad6,7, os-version: 11.0], [device: iPad4,9, os-version: 11.0], [device: iPad7,5, os-version: 11.0], [device: iPad4,4, os-version: 11.0], [device: iPad4,6, os-version: 11.0], [device: iPad5,4, os-version: 11.0], [device: iPad5,2, os-version: 11.0], and [device: iPad6,11, os-version: 11.0]
+App + On Demand Resources size: 14.9 MB compressed, 33.6 MB uncompressed
+App size: 14.9 MB compressed, 33.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-CFB34A7D-85E5-480E-94CE-73EA76F3DEBF.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 12.0], [device: iPhone9,1, os-version: 12.0], [device: iPhone10,4, os-version: 12.0], and [device: iPhone10,1, os-version: 12.0]
+App + On Demand Resources size: 14.9 MB compressed, 33.6 MB uncompressed
+App size: 14.9 MB compressed, 33.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-D3D8940E-C104-42B9-A42D-ACA1A56F2FAD.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 12.2], [device: iPhone10,4, os-version: 12.2], [device: iPhone9,1, os-version: 12.2], and [device: iPhone10,1, os-version: 12.2]
+App + On Demand Resources size: 12.4 MB compressed, 26.1 MB uncompressed
+App size: 12.4 MB compressed, 26.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-E406D7E4-99F0-48AB-A561-34368A65B8F6.ipa
+Supported variant descriptors: [device: iPhone7,2, os-version: 11.0], [device: iPhone6,1, os-version: 11.0], [device: iPhone8,4, os-version: 11.0], [device: iPhone8,1, os-version: 11.0], [device: iPod7,1, os-version: 11.0], and [device: iPhone6,2, os-version: 11.0]
+App + On Demand Resources size: 14.9 MB compressed, 33.6 MB uncompressed
+App size: 14.9 MB compressed, 33.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-E4B88F69-5417-43EB-A626-3DD071C4A053.ipa
+Supported variant descriptors: [device: iPad8,1, os-version: 13.0], [device: iPad7,1, os-version: 13.0], [device: iPad8,12, os-version: 13.0], [device: iPad8,2, os-version: 14.0], [device: iPad13,10, os-version: 14.0], [device: iPad8,4, os-version: 14.0], [device: iPad7,2, os-version: 14.0], [device: iPad13,1, os-version: 14.0], [device: iPad7,1, os-version: 14.0], [device: iPad8,6, os-version: 13.0], [device: iPad6,3, os-version: 13.0], [device: iPad11,2, os-version: 13.0], [device: iPad7,3, os-version: 13.0], [device: iPad8,9, os-version: 13.0], [device: iPad11,1, os-version: 13.0], [device: iPad8,11, os-version: 13.0], [device: iPad13,7, os-version: 14.0], [device: iPad11,3, os-version: 13.0], [device: MacFamily20,1, os-version: 14.0], [device: iPad8,7, os-version: 14.0], [device: iPad11,4, os-version: 14.0], [device: iPad13,2, os-version: 14.0], [device: iPad13,6, os-version: 14.0], [device: iPad11,2, os-version: 14.0], [device: iPad8,5, os-version: 14.0], [device: iPad7,3, os-version: 14.0], [device: iPad8,12, os-version: 14.0], [device: iPad6,4, os-version: 13.0], [device: iPad13,9, os-version: 14.0], [device: iPad13,8, os-version: 14.0], [device: iPad13,11, os-version: 14.0], [device: iPad13,4, os-version: 14.0], [device: iPad8,8, os-version: 14.0], [device: iPad8,1, os-version: 14.0], [device: iPad11,4, os-version: 13.0], [device: iPad8,5, os-version: 13.0], [device: iPad7,2, os-version: 13.0], [device: iPad8,2, os-version: 13.0], [device: iPad8,11, os-version: 14.0], [device: iPad6,3, os-version: 14.0], [device: iPad8,3, os-version: 13.0], [device: iPad8,10, os-version: 13.0], [device: iPad8,8, os-version: 13.0], [device: iPad11,3, os-version: 14.0], [device: iPad8,10, os-version: 14.0], [device: iPad8,6, os-version: 14.0], [device: iPad8,9, os-version: 14.0], [device: iPad13,5, os-version: 14.0], [device: iPad8,3, os-version: 14.0], [device: iPad6,4, os-version: 14.0], [device: iPad8,7, os-version: 13.0], [device: iPad8,4, os-version: 13.0], [device: iPad7,4, os-version: 14.0], [device: iPad11,1, os-version: 14.0], and [device: iPad7,4, os-version: 13.0]
+App + On Demand Resources size: 12.4 MB compressed, 26.1 MB uncompressed
+App size: 12.4 MB compressed, 26.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-E5663005-864B-4DAC-9E54-4AFB882C8F4F.ipa
+Supported variant descriptors: [device: iPad5,1, os-version: 12.2], [device: iPad6,12, os-version: 12.2], [device: iPad7,6, os-version: 12.2], [device: iPad4,9, os-version: 12.2], [device: iPad4,2, os-version: 12.2], [device: iPad4,5, os-version: 12.2], [device: iPad6,8, os-version: 12.2], [device: iPad4,4, os-version: 12.2], [device: iPad4,7, os-version: 12.2], [device: iPad5,3, os-version: 12.2], [device: iPad5,2, os-version: 12.2], [device: iPad6,7, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad4,8, os-version: 12.2], [device: iPad4,3, os-version: 12.2], [device: iPad4,6, os-version: 12.2], [device: iPad5,4, os-version: 12.2], [device: iPad6,11, os-version: 12.2], and [device: iPad7,5, os-version: 12.2]
+App + On Demand Resources size: 12.4 MB compressed, 26.1 MB uncompressed
+App size: 12.4 MB compressed, 26.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-E709E47D-689E-440B-B573-40CF90C04AF3.ipa
+Supported variant descriptors: [device: iPhone9,2, os-version: 11.0], [device: iPhone9,4, os-version: 11.0], [device: iPhone10,3, os-version: 11.0], [device: iPhone10,5, os-version: 11.0], [device: iPhone10,6, os-version: 11.0], and [device: iPhone10,2, os-version: 11.0]
+App + On Demand Resources size: 14.9 MB compressed, 33.6 MB uncompressed
+App size: 14.9 MB compressed, 33.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-EBFA5FE9-5FDF-48F0-ABD5-1B05ACCE9E88.ipa
+Supported variant descriptors: [device: iPhone12,8, os-version: 15.0], [device: iPhone14,6, os-version: 15.0], [device: iPhone10,4, os-version: 16.0], [device: iPhone9,1, os-version: 15.0], [device: iPhone14,6, os-version: 16.0], [device: iPhone9,3, os-version: 15.0], [device: iPhone10,4, os-version: 15.0], [device: iPhone12,8, os-version: 16.0], [device: iPhone10,1, os-version: 16.0], and [device: iPhone10,1, os-version: 15.0]
+App + On Demand Resources size: 12.4 MB compressed, 26.1 MB uncompressed
+App size: 12.4 MB compressed, 26.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-F2E25BF4-156B-46B1-BAE4-052FCF7A929A.ipa
+Supported variant descriptors: [device: iPhone10,2, os-version: 12.2], [device: iPhone11,2, os-version: 12.2], [device: iPhone10,5, os-version: 12.2], [device: iPhone9,2, os-version: 12.2], [device: iPhone9,4, os-version: 12.2], [device: iPhone11,6, os-version: 12.2], [device: iPhone10,3, os-version: 12.2], [device: iPhone10,6, os-version: 12.2], and [device: iPhone11,4, os-version: 12.2]
+App + On Demand Resources size: 12.4 MB compressed, 26.1 MB uncompressed
+App size: 12.4 MB compressed, 26.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis-FAB24B5C-15F4-415F-818C-FF57D5D5B1F5.ipa
+Supported variant descriptors: [device: iPhone8,1, os-version: 12.2], [device: iPhone6,2, os-version: 12.2], [device: iPod7,1, os-version: 12.2], [device: iPhone7,2, os-version: 12.2], [device: iPhone6,1, os-version: 12.2], [device: iPod9,1, os-version: 12.2], and [device: iPhone8,4, os-version: 12.2]
+App + On Demand Resources size: 12.4 MB compressed, 26.1 MB uncompressed
+App size: 12.4 MB compressed, 26.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Museo de los Yaquis.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 22 MB compressed, 56.3 MB uncompressed
+App size: 22 MB compressed, 56.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
