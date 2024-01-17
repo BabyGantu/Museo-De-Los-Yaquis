@@ -90,7 +90,7 @@ class MyApp extends StatelessWidget {
             title: 'Museo de los yaquis',
             theme: themeChanger.getTheme(), // Usa el tema del ThemeChanger
             home: FirstTimeScreen(),
-            debugShowCheckedModeBanner: false,
+            debugShowCheckedModeBanner: false, 
             initialRoute: '/',
             routes: {
               '/home': (context) =>
