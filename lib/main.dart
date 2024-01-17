@@ -86,7 +86,7 @@ class MyApp extends StatelessWidget {
       ),
       child: Consumer<ThemeChanger>(
         builder: (context, themeChanger, child) {
-          return MaterialApp(
+          return MaterialApp( 
             title: 'Museo de los yaquis',
             theme: themeChanger.getTheme(), // Usa el tema del ThemeChanger
             home: FirstTimeScreen(),
