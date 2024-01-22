@@ -1,14 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:path_provider/path_provider.dart';
-import 'dart:typed_data';
 import 'dart:io';
 
 import 'package:permission_handler/permission_handler.dart';
 import 'package:share_plus/share_plus.dart';
-import 'package:flutter_build_helper/flutter_build_helper.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'AcercaDe.dart';
 import 'main.dart';
 
 class Compartir extends StatefulWidget {
@@ -43,7 +40,7 @@ class _CompartirState extends State<Compartir> {
   Future<File> get _localFile async {
     final directory =
         await getApplicationSupportDirectory(); // Obtiene la ruta del directorio externo de almacenamiento
-    final file = File('${directory?.path}/MuseoDelYaqui.apk');
+    final file = File('${directory.path}/MuseoDelYaqui.apk');
     if (await file.exists()) {
       // Eliminar archivo APK anterior
       await file.delete();
@@ -123,10 +120,8 @@ class _CompartirState extends State<Compartir> {
                     Image.asset('assets/images/share.png'),
                     ElevatedButton(
                       style: ElevatedButton.styleFrom(
-                        minimumSize: Size(300, 50),
-                        maximumSize: Size(500, 50),
-                        primary: primarySwatch[600], // Color de fondo
-                        onPrimary: Colors.white, // Color de texto
+                        foregroundColor: Colors.white, minimumSize: Size(300, 50), backgroundColor: primarySwatch[600],
+                        maximumSize: Size(500, 50), // Color de texto
                       ),
                       child: Text('Compartir aplicación'),
                       onPressed: () {

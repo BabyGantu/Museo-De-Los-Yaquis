@@ -1,4 +1,3 @@
-import 'package:email_validator/email_validator.dart';
 import 'package:flutter/material.dart';
 import 'package:mailer/mailer.dart';
 import 'package:mailer/smtp_server.dart';
@@ -9,7 +8,6 @@ import 'package:mailer/smtp_server.dart';
 import 'package:url_launcher/url_launcher.dart';
 //import 'package:flutter_html/flutter_html.dart';
 import 'package:flutter_widget_from_html/flutter_widget_from_html.dart';
-import 'package:webview_flutter_android/webview_flutter_android.dart';
 import 'AcercaDe.dart';
 import 'main.dart';
 

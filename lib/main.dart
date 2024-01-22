@@ -3,7 +3,6 @@ import 'package:museo/AcercaDe.dart';
 import 'package:museo/Contacto.dart';
 import 'package:museo/Compartir.dart';
 import 'package:museo/ayuda.dart';
-import 'package:path_provider/path_provider.dart';
 import 'El_Edificio.dart';
 import 'Historia.dart';
 import 'MyDrawer.dart';
@@ -14,8 +13,6 @@ import 'SplashScreen.dart';
 import 'ThemeChanger.dart';
 import 'package:provider/provider.dart';
 
-import 'dart:io';
-import 'package:flutter/services.dart';
 import 'package:permission_handler/permission_handler.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -41,6 +38,7 @@ void main() {
     },
     onUnknownRoute: (settings) {
       print('ERROR: no se encuentra ${settings.name}');
+      return null;
     },
   ));
 }
@@ -86,7 +84,7 @@ class MyApp extends StatelessWidget {
       ),
       child: Consumer<ThemeChanger>(
         builder: (context, themeChanger, child) {
-          return MaterialApp(    
+          return MaterialApp(
             title: 'Museo de los yaquis',
             theme: themeChanger.getTheme(), // Usa el tema del ThemeChanger
             home: FirstTimeScreen(),
@@ -104,6 +102,7 @@ class MyApp extends StatelessWidget {
             },
             onUnknownRoute: (settings) {
               print('ERROR: no se encuentra ${settings.name}');
+              return null;
             },
           );
         },
