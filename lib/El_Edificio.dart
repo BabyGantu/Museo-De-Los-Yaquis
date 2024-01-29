@@ -13,7 +13,7 @@ class El_Edificio extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('El Edificio'),
+        title: Text('El Edificio',style: TextStyle(color: Colors.white)),
         backgroundColor: primarySwatch,
       ),
       drawer: MyDrawer(),

@@ -118,7 +118,7 @@ class metaDatos2 extends StatelessWidget {
     }
     return Scaffold(
       appBar: AppBar(
-        title: Text("Metadatos"),
+        title: Text("Metadatos",style: TextStyle(color: Colors.white)),
         backgroundColor: primarySwatch,
       ),
       body: Container(
@@ -852,7 +852,7 @@ class Tipo_Materias_Relacionados extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('$elemento'),
+        title: Text('$elemento',style: TextStyle(color: Colors.white)),
         backgroundColor: primarySwatch,
       ),
       body: ListView.builder(

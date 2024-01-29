@@ -100,32 +100,53 @@ class _CompartirState extends State<Compartir> {
     final String playStoreLink = 'https://play.google.com/store/apps/details?id=com.redescubramossonora.museo';
     Share.share(playStoreLink);
   }
+  void _shareAppStoreLink() {
+    final String AppStoreLink = 'https://apps.apple.com/mx/app/museo-de-los-yaquis/id6475923789';
+    Share.share(AppStoreLink);
+  }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Compartir aplicación  '),
+        title: Text('Compartir aplicación',style: TextStyle(color: Colors.white)),
         backgroundColor: primarySwatch,
       ),
       body: Center(
         child: Padding(
-          padding: EdgeInsetsDirectional.all(40.0),
+          padding: EdgeInsetsDirectional.only(bottom: 40,end: 40,start: 40,top: 70),
           child: Column(
             children: [
               Padding(
                   padding:EdgeInsets.all(20.0),
                 child: Column(
                   children: [
+                    /**
                     Image.asset('assets/images/share.png'),
                     ElevatedButton(
                       style: ElevatedButton.styleFrom(
                         foregroundColor: Colors.white, minimumSize: Size(300, 50), backgroundColor: primarySwatch[600],
                         maximumSize: Size(500, 50), // Color de texto
                       ),
-                      child: Text('Compartir aplicación'),
+                      child: Text('Compartir en Play Store'),
                       onPressed: () {
                         _sharePlayStoreLink();
+                      },
+                    ),
+                    SizedBox(height: 40,),
+                        **/
+
+
+                    Image.asset('assets/images/appStore.svg.png'),
+                    SizedBox(height: 20,),
+                    ElevatedButton(
+                      style: ElevatedButton.styleFrom(
+                        foregroundColor: Colors.white, minimumSize: Size(300, 50), backgroundColor: primarySwatch[600],
+                        maximumSize: Size(500, 50), // Color de texto
+                      ),
+                      child: Text('Compartir en App Store'),
+                      onPressed: () {
+                        _shareAppStoreLink();
                       },
                     )
 

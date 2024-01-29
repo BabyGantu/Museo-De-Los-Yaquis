@@ -140,7 +140,7 @@ class _ContactoState extends State<Contacto> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Contacto'),
+        title: Text('Contacto',style: TextStyle(color: Colors.white)),
         backgroundColor: primarySwatch,
       ),
       body: Container(

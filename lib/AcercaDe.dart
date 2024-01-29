@@ -12,7 +12,7 @@ class AcercaDe extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Acerca de'),
+        title: Text('Acerca de',style: TextStyle(color: Colors.white)),
         backgroundColor: primarySwatch,
       ),
       body: Center(
@@ -225,7 +225,7 @@ class AcercaDe extends StatelessWidget {
                         )),
 
                     SizedBox(height: 20.0),
-                    Text("Versión de la aplicación: 1.0.11",
+                    Text("Versión de la aplicación: 2.0.1",
                         //textAlign: TextAlign.justify,
                         style: TextStyle(
                           fontSize: 18.0 + tam_letra,

@@ -11,7 +11,7 @@ class Historia extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Historia'),
+        title: Text('Historia',style: TextStyle(color: Colors.white)),
         backgroundColor: primarySwatch,
       ),
       drawer: MyDrawer(),

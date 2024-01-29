@@ -26,6 +26,7 @@ void setTamLetra(double value) {
 void main() {
   runApp(MaterialApp(
     initialRoute: '/',
+    debugShowCheckedModeBanner: false,
     routes: {
       '/': (context) => SplashScreen(),
       '/home': (context) => MyApp(),
@@ -283,7 +284,7 @@ class _FirstTimeScreenState extends State<FirstTimeScreen> {
               onPressed: () {
                 Navigator.of(context).pop(); // Cierra el diálogo
               },
-              child: Text('Cerrar'),
+              child: Text('Cerrar',style: TextStyle(color: Colors.black)),
             ),
             TextButton(
               onPressed: () {
@@ -292,7 +293,7 @@ class _FirstTimeScreenState extends State<FirstTimeScreen> {
                   Navigator.pushNamed(context, '/ayuda');
                 });
               },
-              child: Text('Ir a ayuda'),
+              child: Text('Ir a ayuda',style: TextStyle(color: Colors.black)),
             ),
           ],
         );
